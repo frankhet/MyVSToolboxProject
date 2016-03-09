@@ -1,2 +1,2 @@
 # MyVSToolboxProject
-Test project for Visual studioas
+Test project for Visual studio
